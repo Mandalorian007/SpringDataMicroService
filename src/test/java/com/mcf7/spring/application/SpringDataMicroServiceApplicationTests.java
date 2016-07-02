@@ -1,5 +1,6 @@
 package com.mcf7.spring.application;
 
+import com.mcf7.spring.SpringDataMicroServiceApplication;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.SpringApplicationConfiguration;
